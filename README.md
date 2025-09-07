@@ -18,6 +18,7 @@ and LLMs into pipelines to build end-to-end NLP applications and solve your use 
 
 - [Installation](#installation)
 - [Documentation](#documentation)
+- [Architecture](#architecture)
 - [Features](#features)
 - [Use Cases](#features)
 - [Hayhooks (REST API Deployment)](#-tip-1)
@@ -54,6 +55,18 @@ use cases, or just to get some inspiration, you can browse our Haystack recipes 
 [Cookbook](https://haystack.deepset.ai/cookbook).
 
 At any given point, hit the [documentation](https://docs.haystack.deepset.ai/docs/intro) to learn more about Haystack, what can it do for you and the technology behind.
+
+## Architecture
+
+For developers and system architects looking to understand Haystack's internal structure, data flows, and integration patterns, check out our comprehensive [Technical Architecture Documentation](ARCHITECTURE.md). It includes detailed Mermaid diagrams covering:
+
+- System architecture and core components
+- Pipeline execution and orchestration
+- Component lifecycle and interaction patterns  
+- Document store architecture
+- Data flow patterns for RAG and other use cases
+- Integration patterns with external services
+- Deployment architectures and patterns
 
 ## Features
 
